@@ -1,16 +1,61 @@
 ## Hi there 👋
 
-<!--
-**7mayur14/7mayur14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Full Stack Java Developer - [Your Name]
 
-Here are some ideas to get you started:
+Welcome to my GitHub repository! Here, you will find various projects and code samples showcasing my skills and expertise as a Full Stack Java Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming Languages
+- **Java** (Core Java, OOP, Collections Framework)
+- **SQL**
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+### Frameworks
+- **Spring Boot**
+- **React.js**
+
+### Databases
+- **MySQL**
+- **Oracle**
+- **Postgres**
+
+### Soft Skills
+- **Project Management**
+- **Leadership**
+- **Time Management**
+- **Adaptability**
+- **Teamwork**
+
+![Skills GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+## Projects
+
+### Project 1: [Project Name]
+- **Description**: Brief description of the project.
+- **Technologies Used**: Java, Spring Boot, MySQL, React.js
+- **GitHub Repository**: [Link to the repository]
+
+### Project 2: [Project Name]
+- **Description**: Brief description of the project.
+- **Technologies Used**: Java, Spring Boot, Oracle, React.js
+- **GitHub Repository**: [Link to the repository]
+
+### Project 3: [Project Name]
+- **Description**: Brief description of the project.
+- **Technologies Used**: Java, Spring Boot, Postgres, React.js
+- **GitHub Repository**: [Link to the repository]
+
+## Contact
+
+- **Email**: [Your Email]
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Twitter**: [Your Twitter Handle]
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+---
+
+Thank you for visiting my GitHub repository!
