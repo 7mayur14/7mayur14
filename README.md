@@ -1,7 +1,7 @@
 ## Hi there 👋
-# <div style="background-color:#2d2d2d;color:#ffffff;padding:20px;border-radius:5px;">
+ <div style="background-color:#2d2d2d;color:#ffffff;padding:20px;border-radius:5px;">
 <div style="display: inline-block; animation: shuffle 5s linear infinite;">
-  Full Stack Java Developer - [Your Name]
+  Full Stack Java Developer - Mayur Mane
 </div>
 </div>
 
@@ -15,7 +15,7 @@
 }
 </style>
 
-# Full Stack Java Developer - Mayur Baliram Mane
+## Full Stack Java Developer - Mayur Baliram Mane
 
 Welcome to my GitHub repository! Here, you will find various projects and code samples showcasing my skills and expertise as a Full Stack Java Developer.
 
