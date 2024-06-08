@@ -36,7 +36,7 @@ Welcome to my GitHub repository! Here, you will find various projects and code s
 ### Project 1: Alumni Connect College Website
 - **Description**: The Alumni Connect College Website is a comprehensive web platform designed to facilitatecommunication and networking among alumni, current students, and faculty members of a college or university.The website aims to create a vibrant online community where members can stay connected, share experiences,collaborate on projects, and support each other's professional growth.
 - **Technologies Used**: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL.
-- **GitHub Repository**: [Link to the repository]
+- [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/7mayur14/alumna)
 
 ### Project 2: Employee Management System 
 - **Description**: Employee Management System Java Project allows you to manage all employee information in acentralize database where you can check and update and view employee details, and can delete in case employee leaves the company.
