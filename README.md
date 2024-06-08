@@ -7,7 +7,7 @@ Welcome to my GitHub repository! Here, you will find various projects and code s
 ## Skills
 
 ### Programming Languages
-- **Java** (Core Java, OOP, Collections Framework)
+- **Java** (https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 - **SQL**
 - **HTML**
 - **CSS**
@@ -50,9 +50,8 @@ Welcome to my GitHub repository! Here, you will find various projects and code s
 
 ## Contact
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
+- **Email**: [mayurmane656@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/mayur-mane-019982175]
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
