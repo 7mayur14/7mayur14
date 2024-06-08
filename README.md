@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-# Full Stack Java Developer - [Your Name]
+# Full Stack Java Developer - Mayur Baliram Mane
 
 Welcome to my GitHub repository! Here, you will find various projects and code samples showcasing my skills and expertise as a Full Stack Java Developer.
 
 ## Skills
 
 ### Programming Languages
-- **Java** (https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 - **SQL**
 - **HTML**
 - **CSS**
