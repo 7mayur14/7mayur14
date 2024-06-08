@@ -7,7 +7,7 @@ Welcome to my GitHub repository! Here, you will find various projects and code s
 ## Skills
 
 ### Programming Languages
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) (Core Java, OOP, Collections Framework)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,19 +33,19 @@ Welcome to my GitHub repository! Here, you will find various projects and code s
 
 ## Projects
 
-### Project 1: [Project Name]
-- **Description**: Brief description of the project.
-- **Technologies Used**: Java, Spring Boot, MySQL, React.js
+### Project 1: Alumni Connect College Website
+- **Description**: The Alumni Connect College Website is a comprehensive web platform designed to facilitatecommunication and networking among alumni, current students, and faculty members of a college or university.The website aims to create a vibrant online community where members can stay connected, share experiences,collaborate on projects, and support each other's professional growth.
+- **Technologies Used**: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL.
 - **GitHub Repository**: [Link to the repository]
 
-### Project 2: [Project Name]
-- **Description**: Brief description of the project.
-- **Technologies Used**: Java, Spring Boot, Oracle, React.js
+### Project 2: Employee Management System 
+- **Description**: Employee Management System Java Project allows you to manage all employee information in acentralize database where you can check and update and view employee details, and can delete in case employee leaves the company.
+- **Technologies Used**: Core Java, Swing & AWT, MySQ
 - **GitHub Repository**: [Link to the repository]
 
-### Project 3: [Project Name]
+### Project 3: E-Commerce Website
 - **Description**: Brief description of the project.
-- **Technologies Used**: Java, Spring Boot, Postgres, React.js
+- **Technologies Used**: Java, Spring Boot, MySQL, React.js, HTML, CSS, JavaScript
 - **GitHub Repository**: [Link to the repository]
 
 ## Contact
