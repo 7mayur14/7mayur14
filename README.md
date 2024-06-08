@@ -50,8 +50,8 @@ Welcome to my GitHub repository! Here, you will find various projects and code s
 
 ## Contact
 
-- **Email**: [mayurmane656@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/mayur-mane-019982175]
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurmane656@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-mane-019982175)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
