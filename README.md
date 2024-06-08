@@ -1,7 +1,19 @@
 ## Hi there 👋
-<div style="background-color:#2d2d2d;color:#ffffff;padding:20px;border-radius:5px;">
-Full Stack Java Developer - Mayur Mane
+# <div style="background-color:#2d2d2d;color:#ffffff;padding:20px;border-radius:5px;">
+<div style="display: inline-block; animation: shuffle 5s linear infinite;">
+  Full Stack Java Developer - [Your Name]
 </div>
+</div>
+
+<style>
+@keyframes shuffle {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(10px); }
+  50% { transform: translateX(-10px); }
+  75% { transform: translateX(10px); }
+  100% { transform: translateX(0); }
+}
+</style>
 
 # Full Stack Java Developer - Mayur Baliram Mane
 
