@@ -41,7 +41,7 @@ Welcome to my GitHub repository! Here, you will find various projects and code s
 ### Project 2: Employee Management System 
 - **Description**: Employee Management System Java Project allows you to manage all employee information in acentralize database where you can check and update and view employee details, and can delete in case employee leaves the company.
 - **Technologies Used**: Core Java, Swing & AWT, MySQ
-- **GitHub Repository**:(https://github.com/7mayur14/Employee-Management-Sytem)
+- [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/7mayur14/Employee-Management-Sytem)
 
 ### Project 3: E-Commerce Website
 - **Description**: Brief description of the project.
