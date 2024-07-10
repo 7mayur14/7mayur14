@@ -33,20 +33,25 @@ Welcome to my GitHub repository! Here, you will find various projects and code s
 
 ## Projects
 
-### Project 1: Alumni Connect College Website
+### Project 1: Alumna (Alumni Connect College Website)
 - **Description**: The Alumni Connect College Website is a comprehensive web platform designed to facilitatecommunication and networking among alumni, current students, and faculty members of a college or university.The website aims to create a vibrant online community where members can stay connected, share experiences,collaborate on projects, and support each other's professional growth.
 - **Technologies Used**: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL.
 - [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/7mayur14/alumna)
 
-### Project 2: Employee Management System 
+### Project 2: VidTech (Video Player)
+- **Description**: This web application allows users to upload, view, and manage their videos. The application features a responsive design, a dark mode interface, and a dynamic video player that displays selected videos on a dedicated screen. Users can also view information about the application and contact the developers through the provided sections.
+- **Technologies Used**: React.js, Node.js, Express.js.
+- [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/7mayur14/VidTech)
+
+### Project 3: EMS (Employee Management System) 
 - **Description**: Employee Management System Java Project allows you to manage all employee information in acentralize database where you can check and update and view employee details, and can delete in case employee leaves the company.
 - **Technologies Used**: Core Java, Swing & AWT, MySQ
 - [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/7mayur14/Employee-Management-Sytem)
 
-### Project 3: E-Commerce Website
-- **Description**: Brief description of the project.
+### Project 4: Aesthetic (E-Commerce Website)
+- **Description**: .
 - **Technologies Used**: Java, Spring Boot, MySQL, React.js, HTML, CSS, JavaScript
-- **GitHub Repository**: [Link to the repository]
+- [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/7mayur14/VidTech)
 
 ## Contact
 
